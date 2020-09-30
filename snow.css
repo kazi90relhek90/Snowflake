@@ -1,0 +1,38 @@
+
+.centered {
+    width : 500px;
+    margin: auto;
+    background-color: black;
+    color :white;
+}
+
+.button{
+    width: 150px;
+    margin : auto;
+}
+
+button {
+    background-color: red;
+    color: cyan;
+}
+
+canvas {
+    border: 1px solid black;
+    background-color: black;
+}
+
+div { 
+    padding: 20px;
+    width : 600px;
+    margin: auto;
+}
+
+hr {
+    height : 25px;
+    width : 500px;
+    margin: auto;
+    background-color: gray;
+}
+body{
+    background-color: darkgreen;
+}
